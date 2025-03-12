@@ -1,2 +1,2 @@
-# education-edition
-question sets
+# villager game show education edition
+question sets for the game thanks
