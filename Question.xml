@@ -1,0 +1,156 @@
+<Questions>
+	<Question>
+		<Text>what is the ip address of the server</Text>
+		<Answers>anarchiapiteragrifina.aternos.me;anarchiapetergrifin.aternos.me;anarchiapitergrifin.aternos.me</Answers>
+		<Difficulty>1</Difficulty>
+		<CorrectIndices>2</CorrectIndices>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<Question>
+		<Text>who is villager vip</Text>
+		<Answers>stupid annoying nitwit villager that serves no purpose;a villager that bought the vip gamepass;GOD</Answers>
+		<Difficulty>2</Difficulty>
+		<CorrectIndices>2</CorrectIndices>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<!-- Add questions for higher difficulty levels -->
+	<Question>
+		<Text>who is this</Text>
+		<Answers>kitler;catler;a cat</Answers>
+		<Difficulty>3</Difficulty>
+		<Image>whoIs1</Image>
+		<CorrectIndices>0</CorrectIndices>
+		<TimeLimit>3</TimeLimit>
+	</Question>
+	<Question>
+		<Text>what is the name of this iconic house</Text>
+		<Answers>GigaMansion ™;GigaMansion CEO ™;CEO GigaMansion ™</Answers>
+		<Difficulty>4</Difficulty>
+		<Image>gigaMansion</Image>
+		<CorrectIndices>2</CorrectIndices>
+		<TimeLimit>3</TimeLimit>
+	</Question>
+	<Question>
+		<Text>what came first</Text>
+		<Answers>A. low taper fade clicker;B. the bite of 87;C. big justice</Answers>
+		<Difficulty>5</Difficulty>
+		<CorrectIndices>0</CorrectIndices>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<Question>
+		<Text>does villager vip have a family</Text>
+		<Answers>yes;no;idk go ask him</Answers>
+		<Difficulty>6</Difficulty>
+		<CorrectIndices>0,2</CorrectIndices>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<Question>
+		<Text>what is the name of the OFICIEL piter grifin anarchy song?</Text>
+		<Answers>low taper gang;massive gang;piter gang</Answers>
+		<Difficulty>7</Difficulty>
+		<CorrectIndices>0</CorrectIndices>
+		<TimeLimit>4</TimeLimit>
+	</Question>
+	<Question>
+		<Text>what came first</Text>
+		<Answers>A. job blow;B. menacing boss;C. villager vip</Answers>
+		<Difficulty>8</Difficulty>
+		<CorrectIndices>0</CorrectIndices>
+		<TimeLimit>4</TimeLimit>
+	</Question>
+	<Question>
+		<Text>what is menacing boss's job</Text>
+		<Answers>leatherworker;fisherman;shepherd</Answers>
+		<Difficulty>9</Difficulty>
+		<CorrectIndices>2</CorrectIndices>
+		<TimeLimit>4</TimeLimit>
+	</Question>
+	<Question>
+		<Text>how is big justice</Text>
+		<Answers>doing good;doing well;doing big</Answers>
+		<Difficulty>10</Difficulty>
+		<CorrectIndices>2</CorrectIndices>
+		<TimeLimit>4</TimeLimit>
+	</Question>
+	<Question>
+		<Text>what is the name of villager vip's alleged plain cousin</Text>
+		<Answers>wiciu minecraft;wiciu o block;wiciu oblock</Answers>
+		<Difficulty>11</Difficulty>
+		<CorrectIndices>1</CorrectIndices>
+		<TimeLimit>4</TimeLimit>
+	</Question>
+	<Question>
+		<Text>who has the best house on the server</Text>
+		<Answers>gabrielcub;kacper_207;polacytokozacy</Answers>
+		<Difficulty>12</Difficulty>
+		<CorrectIndices>0</CorrectIndices>
+		<TimeLimit>4</TimeLimit>
+	</Question>
+	<Question>
+		<Text>how much royalty does villager vip get from each emerald made from the sleep deprived cocaine factory</Text>
+		<Answers>10%;50%;30%</Answers>
+		<Difficulty>13</Difficulty>
+		<CorrectIndices>1</CorrectIndices>
+		<TimeLimit>4</TimeLimit>
+	</Question>
+	<Question>
+		<Text>how many iconic screenshots from the server are there</Text>
+		<Answers>6;7;9</Answers>
+		<Difficulty>14</Difficulty>
+		<CorrectIndices>2</CorrectIndices>
+		<TimeLimit>4</TimeLimit>
+	</Question>
+	<Question>
+		<Text>how many gravestones are there</Text>
+		<Answers>2;0;1</Answers>
+		<Difficulty>15</Difficulty>
+		<CorrectIndices>0</CorrectIndices>
+		<TimeLimit>4</TimeLimit>
+	</Question>
+	<Question>
+		<Text>what was one of the losses during the bite of 87</Text>
+		<Answers>unbreaking III;og bane of arthropods;2 og fletchers</Answers>
+		<Difficulty>16</Difficulty>
+		<CorrectIndices>2</CorrectIndices>
+		<TimeLimit>3</TimeLimit>
+	</Question>
+	<Question>
+		<Text>how many bases does gabrielcub have</Text>
+		<Answers>2;idk;3</Answers>
+		<Difficulty>17</Difficulty>
+		<CorrectIndices>1, 2</CorrectIndices>
+		<TimeLimit>3</TimeLimit>
+	</Question>
+	<Question>
+		<Text>(bonus IQ test in order to proceed further) is low taper fade still massive</Text>
+		<Answers>yes;no;the wrong answer is no</Answers>
+		<Difficulty>18</Difficulty>
+		<CorrectIndices>0</CorrectIndices>
+		<TimeLimit>3</TimeLimit>
+	</Question>
+	<Question>
+		<Text>what's written on the sign of the entrance to the "real" world</Text>
+		<Answers>safe world;safe haven;safe zone</Answers>
+		<Difficulty>19</Difficulty>
+		<CorrectIndices>1</CorrectIndices>
+		<TimeLimit>3</TimeLimit>
+	</Question>
+	<Question>
+		<Text>based on this photo, whose house is it</Text>
+		<Answers>gabrielcub;kacper_207;polacytokozacy</Answers>
+		<Difficulty>20</Difficulty>
+		<Image>whoseHouse</Image>
+		<CorrectIndices>0</CorrectIndices>
+		<TimeLimit>3</TimeLimit>
+	</Question>
+	<Question>
+		<Text>what is villager vip's current net worth</Text>
+		<Answers>1 billion emeralds;1 million emeralds;1 trillion emeralds</Answers>
+		<Difficulty>21</Difficulty>
+		<CorrectIndices>0</CorrectIndices>
+		<TimeLimit>3</TimeLimit>
+	</Question>
+	
+	
+
+</Questions>
