@@ -1,13 +1,102 @@
 <Questions>
 	<Question>
-		<Text>testowe pytanie lollll</Text>
-		<Answers>jestem cool;yers;wahoo</Answers>
-		<CorrectIndices>0</CorrectIndices>
+		<Text>i am steve</Text>
+		<Answers>yes;no;what</Answers>
+		<CorrectIndices>0,1,2</CorrectIndices>
 		<DifficultyLevel>1</DifficultyLevel>
 		<TimeLimit>5</TimeLimit>
 	</Question>
-
-
-
-
+	<Question>
+		<Text>big justice</Text>
+		<Answers>is cool;not funny;doing big</Answers>
+		<CorrectIndices>0,2</CorrectIndices>
+		<DifficultyLevel>2</DifficultyLevel>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<Question>
+		<Text>big justice</Text>
+		<Answers>is cool;not funny;doing big</Answers>
+		<CorrectIndices>0,2</CorrectIndices>
+		<DifficultyLevel>3</DifficultyLevel>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<Question>
+	<Text>what is the ip address of the server</Text>
+	<Answers>anarchiapiteragrifina.aternos.me;anarchiapetergrifin.aternos.me;anarchiapitergrifin.aternos.me</Answers>
+	<Difficulty>4</Difficulty>
+	<CorrectIndices>2</CorrectIndices>
+	<TimeLimit>5</TimeLimit>
+</Question>
+<Question>
+	<Text>who is villager vip</Text>
+	<Answers>stupid annoying nitwit villager that serves no purpose;a villager that bought the vip gamepass;GOD</Answers>
+	<Difficulty>5</Difficulty>
+	<CorrectIndices>2</CorrectIndices>
+	<TimeLimit>5</TimeLimit>
+</Question>
+<Question>
+	<Text>who is this</Text>
+	<Answers>kitler;catler;a cat</Answers>
+	<Difficulty>6</Difficulty>
+	<Image>whoIs1</Image>
+	<CorrectIndices>0</CorrectIndices>
+	<TimeLimit>3</TimeLimit>
+</Question>
+<Question>
+	<Text>what is the name of this iconic house</Text>
+	<Answers>GigaMansion ™;GigaMansion CEO ™;CEO GigaMansion ™</Answers>
+	<Difficulty>7</Difficulty>
+	<Image>gigaMansion</Image>
+	<CorrectIndices>2</CorrectIndices>
+	<TimeLimit>3</TimeLimit>
+</Question>
+<Question>
+	<Text>what came first</Text>
+	<Answers>A. low taper fade clicker;B. the bite of 87;C. big justice</Answers>
+	<Difficulty>8</Difficulty>
+	<CorrectIndices>0</CorrectIndices>
+	<TimeLimit>5</TimeLimit>
+</Question>
+<Question>
+	<Text>does villager vip have a family</Text>
+	<Answers>yes;no;idk go ask him;HAK TUAH</Answers>
+	<Difficulty>9</Difficulty>
+	<CorrectIndices>0,2,3</CorrectIndices>
+	<TimeLimit>5</TimeLimit>
+</Question>
+<Question>
+	<Text>what is the name of the OFICIEL piter grifin anarchy song?</Text>
+	<Answers>low taper gang;massive gang;piter gang</Answers>
+	<Difficulty>10</Difficulty>
+	<CorrectIndices>0</CorrectIndices>
+	<TimeLimit>4</TimeLimit>
+</Question>
+<Question>
+	<Text>what came first</Text>
+	<Answers>A. job blow;B. menacing boss;C. villager vip</Answers>
+	<Difficulty>11</Difficulty>
+	<CorrectIndices>0</CorrectIndices>
+	<TimeLimit>4</TimeLimit>
+</Question>
+<Question>
+	<Text>what is the name of villager vip's company</Text>
+	<Answers>VIP Corp;VIP Enterprise;VIP Corporation</Answers>
+	<Difficulty>12</Difficulty>
+	<CorrectIndices>1</CorrectIndices>
+	<TimeLimit>4</TimeLimit>
+</Question>
+<Question>
+	<Text>what is menacing boss's job</Text>
+	<Answers>leatherworker;fisherman;shepherd</Answers>
+	<Difficulty>13</Difficulty>
+	<CorrectIndices>2</CorrectIndices>
+	<TimeLimit>4</TimeLimit>
+</Question>
+	<Question>
+	<Text>what is 2+2</Text>
+	<Answers>too hard;4;5</Answers>
+	<Difficulty>13</Difficulty>
+	<CorrectIndices>0,2</CorrectIndices>
+	<TimeLimit>4</TimeLimit>
+</Question>
 </Questions>
