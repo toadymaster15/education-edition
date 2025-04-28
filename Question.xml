@@ -1,102 +1,107 @@
 <Questions>
 	<Question>
-		<Text>i am steve</Text>
-		<Answers>yes;no;what</Answers>
-		<CorrectIndices>0,1,2</CorrectIndices>
+		<Text>Gdzie dzieje się akcja Dziadów cz. II? (idk czy to prawda ale dobra)</Text>
+		<Answers>w kaplicy cmentarnej;w stodole;w kościele</Answers>
+		<CorrectIndices>0</CorrectIndices>
 		<DifficultyLevel>1</DifficultyLevel>
 		<TimeLimit>5</TimeLimit>
 	</Question>
 	<Question>
-		<Text>big justice</Text>
-		<Answers>is cool;not funny;doing big</Answers>
-		<CorrectIndices>0,2</CorrectIndices>
+		<Text>Kto przewodniczy obrzędowi dziadów?</Text>
+		<Answers>Guślarz;Ksiądz;Villager VIP</Answers>
+		<CorrectIndices>0</CorrectIndices>
 		<DifficultyLevel>2</DifficultyLevel>
 		<TimeLimit>5</TimeLimit>
 	</Question>
 	<Question>
-		<Text>big justice</Text>
-		<Answers>is cool;not funny;doing big</Answers>
-		<CorrectIndices>0,2</CorrectIndices>
+		<Text>W jakiej kolejności pojawiają się duchy?</Text>
+		<Answers>Józio i Rózia, duch Zosi, widmo złego Pana;Józio i Rózia, widmo złego Pana, duch Zosi;peter griffin, jack black, chicken jockey</Answers>
+		<CorrectIndices>1, 2</CorrectIndices>
 		<DifficultyLevel>3</DifficultyLevel>
+		<TimeLimit>10</TimeLimit>
+	</Question>
+	<Question>
+		<Text>Jak nazywały się duchy dzieci? (easy ass fucking question)</Text>
+		<Answers>Antek i Basia;Józio i Rózia;no wiesz nie wiem peter griffin i dr trayaurus</Answers>
+		<CorrectIndices>1</CorrectIndices>
+		<DifficultyLevel>4</DifficultyLevel>
 		<TimeLimit>5</TimeLimit>
 	</Question>
 	<Question>
-	<Text>what is the ip address of the server</Text>
-	<Answers>anarchiapiteragrifina.aternos.me;anarchiapetergrifin.aternos.me;anarchiapitergrifin.aternos.me</Answers>
-	<Difficulty>4</Difficulty>
-	<CorrectIndices>2</CorrectIndices>
-	<TimeLimit>5</TimeLimit>
-</Question>
-<Question>
-	<Text>who is villager vip</Text>
-	<Answers>stupid annoying nitwit villager that serves no purpose;a villager that bought the vip gamepass;GOD</Answers>
-	<Difficulty>5</Difficulty>
-	<CorrectIndices>2</CorrectIndices>
-	<TimeLimit>5</TimeLimit>
-</Question>
-<Question>
-	<Text>who is this</Text>
-	<Answers>kitler;catler;a cat</Answers>
-	<Difficulty>6</Difficulty>
-	<Image>whoIs1</Image>
-	<CorrectIndices>0</CorrectIndices>
-	<TimeLimit>3</TimeLimit>
-</Question>
-<Question>
-	<Text>what is the name of this iconic house</Text>
-	<Answers>GigaMansion ™;GigaMansion CEO ™;CEO GigaMansion ™</Answers>
-	<Difficulty>7</Difficulty>
-	<Image>gigaMansion</Image>
-	<CorrectIndices>2</CorrectIndices>
-	<TimeLimit>3</TimeLimit>
-</Question>
-<Question>
-	<Text>what came first</Text>
-	<Answers>A. low taper fade clicker;B. the bite of 87;C. big justice</Answers>
-	<Difficulty>8</Difficulty>
-	<CorrectIndices>0</CorrectIndices>
-	<TimeLimit>5</TimeLimit>
-</Question>
-<Question>
-	<Text>does villager vip have a family</Text>
-	<Answers>yes;no;idk go ask him;HAK TUAH</Answers>
-	<Difficulty>9</Difficulty>
-	<CorrectIndices>0,2,3</CorrectIndices>
-	<TimeLimit>5</TimeLimit>
-</Question>
-<Question>
-	<Text>what is the name of the OFICIEL piter grifin anarchy song?</Text>
-	<Answers>low taper gang;massive gang;piter gang</Answers>
-	<Difficulty>10</Difficulty>
-	<CorrectIndices>0</CorrectIndices>
-	<TimeLimit>4</TimeLimit>
-</Question>
-<Question>
-	<Text>what came first</Text>
-	<Answers>A. job blow;B. menacing boss;C. villager vip</Answers>
-	<Difficulty>11</Difficulty>
-	<CorrectIndices>0</CorrectIndices>
-	<TimeLimit>4</TimeLimit>
-</Question>
-<Question>
-	<Text>what is the name of villager vip's company</Text>
-	<Answers>VIP Corp;VIP Enterprise;VIP Corporation</Answers>
-	<Difficulty>12</Difficulty>
-	<CorrectIndices>1</CorrectIndices>
-	<TimeLimit>4</TimeLimit>
-</Question>
-<Question>
-	<Text>what is menacing boss's job</Text>
-	<Answers>leatherworker;fisherman;shepherd</Answers>
-	<Difficulty>13</Difficulty>
-	<CorrectIndices>2</CorrectIndices>
-	<TimeLimit>4</TimeLimit>
-</Question>
+		<Text>O co proszą duchy dzieci?</Text>
+		<Answers>kroplę wody;kawałek chleba;ziarenka gorczycy</Answers>
+		<CorrectIndices>2</CorrectIndices>
+		<DifficultyLevel>5</DifficultyLevel>
+		<TimeLimit>5</TimeLimit>
+	</Question>
 	<Question>
-	<Text>what is 2+2</Text>
-	<Answers>too hard;4;5</Answers>
-	<Difficulty>13</Difficulty>
-	<CorrectIndices>0,2</CorrectIndices>
-	<TimeLimit>4</TimeLimit>
-</Question>
+		<Text>Z jakiego powodu duchy dzieci cierpią?</Text>
+		<Answers>z powodu nudy;z powodu głodu;z powodu zimna</Answers>
+		<CorrectIndices>0</CorrectIndices>
+		<DifficultyLevel>6</DifficultyLevel>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<Question>
+		<Text>Jakim duchem byli Józio i Rózia?</Text>
+		<Answers>duchy ciężkie;duchy lekkie;duchy pośrednie</Answers>
+		<CorrectIndices>0</CorrectIndices>
+		<DifficultyLevel>7</DifficultyLevel>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<Question>
+		<Text>Jakim duchem było widmo złego Pana?</Text>
+		<Answers>duch ciężki;duch lekki;duch pośredni</Answers>
+		<CorrectIndices>8</CorrectIndices>
+		<DifficultyLevel>1</DifficultyLevel>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<Question>
+		<Text>Na co cierpiał duch dziedzica (widmo złego Pana)?</Text>
+		<Answers>ból i zimno;strach i osamotnienie;głód i pragnienie</Answers>
+		<CorrectIndices>2</CorrectIndices>
+		<DifficultyLevel>9</DifficultyLevel>
+		<TimeLimit>7</TimeLimit>
+	</Question>
+	<Question>
+		<Text>O co prosi evil man?</Text>
+		<Answers>o strawę i napitek;o modlitwę;o zapalanie świec</Answers>
+		<CorrectIndices>0</CorrectIndices>
+		<DifficultyLevel>10</DifficultyLevel>
+		<TimeLimit>7</TimeLimit>
+	</Question>
+	<Question>
+		<Text>Jakim duchem była Zosia?</Text>
+		<Answers>duch pośredni;duch lekki;duch ciężki</Answers>
+		<CorrectIndices>0</CorrectIndices>
+		<DifficultyLevel>11</DifficultyLevel>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<Question>
+		<Text>Ile lat miała Zosia, gdy zmarła?</Text>
+		<Answers>17;19;21</Answers>
+		<CorrectIndices>1</CorrectIndices>
+		<DifficultyLevel>12</DifficultyLevel>
+		<TimeLimit>7</TimeLimit>
+	</Question>
+	<Question>
+		<Text>Ile lat musi jeszcze upłynąć, aby Zosia „stanęła za niebieskim progiem”?</Text>
+		<Answers>3;1;2</Answers>
+		<CorrectIndices>2</CorrectIndices>
+		<DifficultyLevel>13</DifficultyLevel>
+		<TimeLimit>7</TimeLimit>
+	</Question>
+	<Question>
+		<Text>Co stanowi poczęstunek dla zbłąkanych dusz? (idk czy to bylo w ksiazce)</Text>
+		<Answers>mak i soczewica;chleb i sól;wino i chleb</Answers>
+		<CorrectIndices>0</CorrectIndices>
+		<DifficultyLevel>14</DifficultyLevel>
+		<TimeLimit>5</TimeLimit>
+	</Question>
+	<Question>
+		<Text>Kto wypowiada słowa „Kto nie doznał goryczy ni razu, ten nie dozna słodyczy w niebie”?</Text>
+		<Answers>duch Zosi;duchy dzieci;widmo złego Pana</Answers>
+		<CorrectIndices>1</CorrectIndices>
+		<DifficultyLevel>15</DifficultyLevel>
+		<TimeLimit>7</TimeLimit>
+	</Question>
 </Questions>
