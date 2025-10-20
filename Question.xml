@@ -1,107 +1,107 @@
-<Questions>
-	<Question>
-		<Text>Gdzie dzieje się akcja Dziadów cz. II? (idk czy to prawda ale dobra)</Text>
-		<Answers>w kaplicy cmentarnej;w stodole;w kościele</Answers>
-		<CorrectIndices>0</CorrectIndices>
-		<DifficultyLevel>1</DifficultyLevel>
-		<TimeLimit>5</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Kto przewodniczy obrzędowi dziadów?</Text>
-		<Answers>Guślarz;Ksiądz;Villager VIP</Answers>
-		<CorrectIndices>0</CorrectIndices>
-		<DifficultyLevel>2</DifficultyLevel>
-		<TimeLimit>5</TimeLimit>
-	</Question>
-	<Question>
-		<Text>W jakiej kolejności pojawiają się duchy?</Text>
-		<Answers>Józio i Rózia, duch Zosi, widmo złego Pana;Józio i Rózia, widmo złego Pana, duch Zosi;peter griffin, jack black, chicken jockey</Answers>
-		<CorrectIndices>1, 2</CorrectIndices>
-		<DifficultyLevel>3</DifficultyLevel>
-		<TimeLimit>10</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Jak nazywały się duchy dzieci? (easy ass fucking question)</Text>
-		<Answers>Antek i Basia;Józio i Rózia;no wiesz nie wiem peter griffin i dr trayaurus</Answers>
-		<CorrectIndices>1</CorrectIndices>
-		<DifficultyLevel>4</DifficultyLevel>
-		<TimeLimit>5</TimeLimit>
-	</Question>
-	<Question>
-		<Text>O co proszą duchy dzieci?</Text>
-		<Answers>kroplę wody;kawałek chleba;ziarenka gorczycy</Answers>
-		<CorrectIndices>2</CorrectIndices>
-		<DifficultyLevel>5</DifficultyLevel>
-		<TimeLimit>5</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Z jakiego powodu duchy dzieci cierpią?</Text>
-		<Answers>z powodu nudy;z powodu głodu;z powodu zimna</Answers>
-		<CorrectIndices>0</CorrectIndices>
-		<DifficultyLevel>6</DifficultyLevel>
-		<TimeLimit>5</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Jakim duchem byli Józio i Rózia?</Text>
-		<Answers>duchy ciężkie;duchy lekkie;duchy pośrednie</Answers>
-		<CorrectIndices>0</CorrectIndices>
-		<DifficultyLevel>7</DifficultyLevel>
-		<TimeLimit>5</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Jakim duchem było widmo złego Pana?</Text>
-		<Answers>duch ciężki;duch lekki;duch pośredni</Answers>
-		<CorrectIndices>8</CorrectIndices>
-		<DifficultyLevel>1</DifficultyLevel>
-		<TimeLimit>5</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Na co cierpiał duch dziedzica (widmo złego Pana)?</Text>
-		<Answers>ból i zimno;strach i osamotnienie;głód i pragnienie</Answers>
-		<CorrectIndices>2</CorrectIndices>
-		<DifficultyLevel>9</DifficultyLevel>
-		<TimeLimit>7</TimeLimit>
-	</Question>
-	<Question>
-		<Text>O co prosi evil man?</Text>
-		<Answers>o strawę i napitek;o modlitwę;o zapalanie świec</Answers>
-		<CorrectIndices>0</CorrectIndices>
-		<DifficultyLevel>10</DifficultyLevel>
-		<TimeLimit>7</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Jakim duchem była Zosia?</Text>
-		<Answers>duch pośredni;duch lekki;duch ciężki</Answers>
-		<CorrectIndices>0</CorrectIndices>
-		<DifficultyLevel>11</DifficultyLevel>
-		<TimeLimit>5</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Ile lat miała Zosia, gdy zmarła?</Text>
-		<Answers>17;19;21</Answers>
-		<CorrectIndices>1</CorrectIndices>
-		<DifficultyLevel>12</DifficultyLevel>
-		<TimeLimit>7</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Ile lat musi jeszcze upłynąć, aby Zosia „stanęła za niebieskim progiem”?</Text>
-		<Answers>3;1;2</Answers>
-		<CorrectIndices>2</CorrectIndices>
-		<DifficultyLevel>13</DifficultyLevel>
-		<TimeLimit>7</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Co stanowi poczęstunek dla zbłąkanych dusz? (idk czy to bylo w ksiazce)</Text>
-		<Answers>mak i soczewica;chleb i sól;wino i chleb</Answers>
-		<CorrectIndices>0</CorrectIndices>
-		<DifficultyLevel>14</DifficultyLevel>
-		<TimeLimit>5</TimeLimit>
-	</Question>
-	<Question>
-		<Text>Kto wypowiada słowa „Kto nie doznał goryczy ni razu, ten nie dozna słodyczy w niebie”?</Text>
-		<Answers>duch Zosi;duchy dzieci;widmo złego Pana</Answers>
-		<CorrectIndices>1</CorrectIndices>
-		<DifficultyLevel>15</DifficultyLevel>
-		<TimeLimit>7</TimeLimit>
-	</Question>
+<Questions> 
+<Question>
+	<Text>Who is considered the first monarch to establish stable and extensive rule over all of Anglo-Saxon England?</Text>
+	<Answers>Athelstan;Alfred the Great;Egbert</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>1</DifficultyLevel>
+	<TimeLimit>10</TimeLimit>
+</Question>
+<Question>
+	<Text>Which king was known as "the Unready" and dealt with Viking raids by paying them off?</Text>
+	<Answers>Ethelred;Edmund Ironside;Cnut the Great</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>2</DifficultyLevel>
+	<TimeLimit>10</TimeLimit>
+</Question>
+<Question>
+	<Text>What significant event in 1066 led to William the Conqueror becoming King of England?</Text>
+	<Answers>The Battle of Hastings;The signing of the Magna Carta;The Glorious Revolution</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>3</DifficultyLevel>
+	<TimeLimit>10</TimeLimit>
+</Question>
+<Question>
+	<Text>Who was the first monarch of the House of Stuart, uniting the crowns of England and Scotland?</Text>
+	<Answers>James I;Charles I;Queen Anne</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>4</DifficultyLevel>
+	<TimeLimit>15</TimeLimit>
+</Question>
+<Question>
+	<Text>The conflict between the House of Lancaster and the House of York is famously known as what?</Text>
+	<Answers>The Wars of the Roses;The Hundred Years' War;The English Civil War</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>5</DifficultyLevel>
+	<TimeLimit>15</TimeLimit>
+</Question>
+<Question>
+	<Text>Which king was forced to sign the Magna Carta in 1215?</Text>
+	<Answers>King John;Richard the Lionheart;Henry III</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>6</DifficultyLevel>
+	<TimeLimit>15</TimeLimit>
+</Question>
+<Question>
+	<Text>Who was the father of Alfred the Great?</Text>
+	<Answers>Aethelwulf;Egbert;Aethelbald</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>7</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which monarch was restored to the throne after the period of the Commonwealth and is known as the "Merry Monarch"?</Text>
+	<Answers>Charles II;Charles I;James II</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>8</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which king had six wives and initiated the English Reformation?</Text>
+	<Answers>Henry VIII;Henry VII;Edward VI</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>9</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>The long reign of which queen, from 1837 to 1901, is known as the Victorian Era?</Text>
+	<Answers>Queen Victoria;Queen Elizabeth I;Queen Anne</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>10</DifficultyLevel>
+	<TimeLimit>25</TimeLimit>
+</Question>
+<Question>
+	<Text>Who was the last monarch of the House of Stuart?</Text>
+	<Answers>Queen Anne;James II;Mary II</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>11</DifficultyLevel>
+	<TimeLimit>25</TimeLimit>
+</Question>
+<Question>
+	<Text>Who was the Lord Protector of the Commonwealth of England after the execution of Charles I?</Text>
+	<Answers>Oliver Cromwell;Richard Cromwell;Charles II</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>12</DifficultyLevel>
+	<TimeLimit>25</TimeLimit>
+</Question>
+<Question>
+	<Text>Which king abdicated the throne in 1936 to marry Wallis Simpson?</Text>
+	<Answers>Edward VIII;George VI;George V</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>13</DifficultyLevel>
+	<TimeLimit>30</TimeLimit>
+</Question>
+<Question>
+	<Text>Who was the monarch during World War II, known for his radio broadcasts that boosted morale?</Text>
+	<Answers>George VI;Edward VIII;George V</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>14</DifficultyLevel>
+	<TimeLimit>30</TimeLimit>
+</Question>
+<Question>
+	<Text>In what year did Queen Elizabeth II become the longest-reigning monarch in British history?</Text>
+	<Answers>2015;1953;2022</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>15</DifficultyLevel>
+	<TimeLimit>30</TimeLimit>
+</Question>
 </Questions>
