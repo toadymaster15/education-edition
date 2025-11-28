@@ -209,4 +209,364 @@
 	<DifficultyLevel>30</DifficultyLevel>
 	<TimeLimit>20</TimeLimit>
 </Question>
+<!-- 1. George Washington -->
+  <Question>
+    <Text>Which president set the two-term precedent and warned against "foreign entanglements" in his Farewell Address?</Text>
+    <Answers>John Adams;George Washington;Thomas Jefferson</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>31</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 2. John Adams -->
+  <Question>
+    <Text>Which president signed the controversial Alien and Sedition Acts into law in 1798?</Text>
+    <Answers>John Adams;James Madison;Alexander Hamilton</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>32</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 3. Thomas Jefferson -->
+  <Question>
+    <Text>Which president authorized the Louisiana Purchase, doubling the size of the United States?</Text>
+    <Answers>James Monroe;Thomas Jefferson;Andrew Jackson</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>33</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 4. James Madison -->
+  <Question>
+    <Text>Who was president during the War of 1812, which saw the burning of the White House by British troops?</Text>
+    <Answers>James Madison;James Monroe;John Quincy Adams</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>34</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 5. James Monroe -->
+  <Question>
+    <Text>Which president's administration is known as the "Era of Good Feelings" and established a doctrine opposing European colonialism in the Americas?</Text>
+    <Answers>John Tyler;James Monroe;Zachary Taylor</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>35</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 6. John Quincy Adams -->
+  <Question>
+    <Text>Which president served in the House of Representatives for 17 years *after* his presidency?</Text>
+    <Answers>John Quincy Adams;Andrew Johnson;William Howard Taft</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>36</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 7. Andrew Jackson -->
+  <Question>
+    <Text>Which president signed the Indian Removal Act and successfully destroyed the Second Bank of the United States?</Text>
+    <Answers>Andrew Jackson;Martin Van Buren;James K. Polk</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>37</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 8. Martin Van Buren -->
+  <Question>
+    <Text>Who was the first president born a U.S. citizen (not a British subject) and spoke Dutch as his first language?</Text>
+    <Answers>Martin Van Buren;Theodore Roosevelt;Franklin D. Roosevelt</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>38</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 9. William Henry Harrison -->
+  <Question>
+    <Text>Which president delivered the longest inaugural address in history but served the shortest term, dying 31 days later?</Text>
+    <Answers>William Henry Harrison;Zachary Taylor;James A. Garfield</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>39</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 10. John Tyler -->
+  <Question>
+    <Text>Who was the first Vice President to assume the presidency upon the death of a president, setting the precedent for succession?</Text>
+    <Answers>Millard Fillmore;John Tyler;Andrew Johnson</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>40</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 11. James K. Polk -->
+  <Question>
+    <Text>Which president oversaw the Mexican-American War and fulfilled all his major campaign promises in one term?</Text>
+    <Answers>Franklin Pierce;James K. Polk;James Buchanan</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>41</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 12. Zachary Taylor -->
+  <Question>
+    <Text>Which career general and hero of the Mexican-American War died in office after consuming cherries and milk?</Text>
+    <Answers>Zachary Taylor;Ulysses S. Grant;Winfield Scott</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>42</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 13. Millard Fillmore -->
+  <Question>
+    <Text>Which president signed the Compromise of 1850, which included the controversial Fugitive Slave Act?</Text>
+    <Answers>Franklin Pierce;Millard Fillmore;Abraham Lincoln</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>43</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 14. Franklin Pierce -->
+  <Question>
+    <Text>Which president signed the Kansas-Nebraska Act, which effectively repealed the Missouri Compromise and led to "Bleeding Kansas"?</Text>
+    <Answers>James Buchanan;Franklin Pierce;Andrew Johnson</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>44</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 15. James Buchanan -->
+  <Question>
+    <Text>Who was the only bachelor president and is often criticized for his inaction as Southern states seceded from the Union?</Text>
+    <Answers>James Buchanan;Grover Cleveland;Samuel Tilden</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>45</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 16. Abraham Lincoln -->
+  <Question>
+    <Text>Which president issued the Emancipation Proclamation and delivered the Gettysburg Address?</Text>
+    <Answers>Ulysses S. Grant;Abraham Lincoln;Andrew Johnson</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>46</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 17. Andrew Johnson -->
+  <Question>
+    <Text>Who was the first U.S. president to be impeached by the House of Representatives?</Text>
+    <Answers>Richard Nixon;Bill Clinton;Andrew Johnson</Answers>
+    <CorrectIndices>2</CorrectIndices>
+    <DifficultyLevel>47</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 18. Ulysses S. Grant -->
+  <Question>
+    <Text>Which Union general served two terms as president, during which his administration was plagued by scandals like the Whiskey Ring?</Text>
+    <Answers>Ulysses S. Grant;Rutherford B. Hayes;Chester A. Arthur</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>48</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 19. Rutherford B. Hayes -->
+  <Question>
+    <Text>Which president's election was settled by a special commission in the Compromise of 1877, which effectively ended Reconstruction?</Text>
+    <Answers>Samuel Tilden;Rutherford B. Hayes;James A. Garfield</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>49</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 20. James A. Garfield -->
+  <Question>
+    <Text>Which president served less than a year before dying from complications of a gunshot wound inflicted by Charles Guiteau?</Text>
+    <Answers>William McKinley;James A. Garfield;Abraham Lincoln</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>50</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 21. Chester A. Arthur -->
+  <Question>
+    <Text>Which president signed the Pendleton Civil Service Reform Act, mandating that government jobs be awarded based on merit?</Text>
+    <Answers>Chester A. Arthur;Grover Cleveland;Benjamin Harrison</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>51</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 22/24. Grover Cleveland -->
+  <Question>
+    <Text>Who is the only U.S. president to serve two non-consecutive terms?</Text>
+    <Answers>Grover Cleveland;Theodore Roosevelt;Franklin D. Roosevelt</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>52</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 23. Benjamin Harrison -->
+  <Question>
+    <Text>Which president signed the Sherman Antitrust Act and was the grandson of a former president?</Text>
+    <Answers>William Henry Harrison;Benjamin Harrison;John Quincy Adams</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>53</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 25. William McKinley -->
+  <Question>
+    <Text>Who was president during the Spanish-American War and was assassinated at the Pan-American Exposition in 1901?</Text>
+    <Answers>William McKinley;Theodore Roosevelt;Woodrow Wilson</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>54</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 26. Theodore Roosevelt -->
+  <Question>
+    <Text>Which president promised a "Square Deal," oversaw the construction of the Panama Canal, and won the Nobel Peace Prize?</Text>
+    <Answers>Franklin D. Roosevelt;Theodore Roosevelt;Woodrow Wilson</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>55</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 27. William Howard Taft -->
+  <Question>
+    <Text>Who is the only person to serve as both U.S. President and Chief Justice of the Supreme Court?</Text>
+    <Answers>William Howard Taft;Charles Evans Hughes;Earl Warren</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>56</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 28. Woodrow Wilson -->
+  <Question>
+    <Text>Which president led the U.S. during World War I and proposed the "Fourteen Points" for peace?</Text>
+    <Answers>Woodrow Wilson;Herbert Hoover;Harry S. Truman</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>57</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 29. Warren G. Harding -->
+  <Question>
+    <Text>Which president's administration was tarnished by the Teapot Dome scandal shortly after his death in office?</Text>
+    <Answers>Calvin Coolidge;Warren G. Harding;Herbert Hoover</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>58</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 30. Calvin Coolidge -->
+  <Question>
+    <Text>Which famously taciturn president stated that "the chief business of the American people is business"?</Text>
+    <Answers>Calvin Coolidge;Herbert Hoover;Ronald Reagan</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>59</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 31. Herbert Hoover -->
+  <Question>
+    <Text>Who was president when the Stock Market crashed in 1929, marking the start of the Great Depression?</Text>
+    <Answers>Calvin Coolidge;Herbert Hoover;Franklin D. Roosevelt</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>60</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 32. Franklin D. Roosevelt -->
+  <Question>
+    <Text>Who is the only president elected to four terms, leading the U.S. through the Great Depression and World War II?</Text>
+    <Answers>Theodore Roosevelt;Harry S. Truman;Franklin D. Roosevelt</Answers>
+    <CorrectIndices>2</CorrectIndices>
+    <DifficultyLevel>61</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 33. Harry S. Truman -->
+  <Question>
+    <Text>Which president made the decision to drop atomic bombs on Hiroshima and Nagasaki?</Text>
+    <Answers>Harry S. Truman;Dwight D. Eisenhower;Franklin D. Roosevelt</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>62</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 34. Dwight D. Eisenhower -->
+  <Question>
+    <Text>Which former Supreme Allied Commander championed the creation of the Interstate Highway System?</Text>
+    <Answers>Dwight D. Eisenhower;John F. Kennedy;Lyndon B. Johnson</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>63</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 35. John F. Kennedy -->
+  <Question>
+    <Text>Which president established the Peace Corps and navigated the Cuban Missile Crisis?</Text>
+    <Answers>Lyndon B. Johnson;Richard Nixon;John F. Kennedy</Answers>
+    <CorrectIndices>2</CorrectIndices>
+    <DifficultyLevel>64</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 36. Lyndon B. Johnson -->
+  <Question>
+    <Text>Which president signed the Civil Rights Act of 1964 and launched the "Great Society" domestic programs?</Text>
+    <Answers>John F. Kennedy;Lyndon B. Johnson;Hubert Humphrey</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>65</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 37. Richard Nixon -->
+  <Question>
+    <Text>Who is the only U.S. president to resign from office?</Text>
+    <Answers>Andrew Johnson;Bill Clinton;Richard Nixon</Answers>
+    <CorrectIndices>2</CorrectIndices>
+    <DifficultyLevel>66</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 38. Gerald Ford -->
+  <Question>
+    <Text>Who is the only person to serve as both Vice President and President without ever being elected to either office?</Text>
+    <Answers>Gerald Ford;Nelson Rockefeller;Lyndon B. Johnson</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>67</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 39. Jimmy Carter -->
+  <Question>
+    <Text>Which president brokered the Camp David Accords between Egypt and Israel but faced the Iran Hostage Crisis?</Text>
+    <Answers>Gerald Ford;Jimmy Carter;Ronald Reagan</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>68</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 40. Ronald Reagan -->
+  <Question>
+    <Text>Which president challenged Mikhail Gorbachev to "tear down this wall" and promoted supply-side economics?</Text>
+    <Answers>George H.W. Bush;Ronald Reagan;Bill Clinton</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>69</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 41. George H.W. Bush -->
+  <Question>
+    <Text>Who was president during the collapse of the Soviet Union and the First Gulf War (Operation Desert Storm)?</Text>
+    <Answers>Ronald Reagan;George H.W. Bush;Bill Clinton</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>70</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 42. Bill Clinton -->
+  <Question>
+    <Text>Which president signed NAFTA into law and was impeached for perjury and obstruction of justice?</Text>
+    <Answers>George W. Bush;Al Gore;Bill Clinton</Answers>
+    <CorrectIndices>2</CorrectIndices>
+    <DifficultyLevel>71</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 43. George W. Bush -->
+  <Question>
+    <Text>Who was president during the September 11 terrorist attacks and initiated the wars in Afghanistan and Iraq?</Text>
+    <Answers>George W. Bush;Bill Clinton;Barack Obama</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>72</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 44. Barack Obama -->
+  <Question>
+    <Text>Who was the first African American president of the United States and signed the Affordable Care Act?</Text>
+    <Answers>Barack Obama;Colin Powell;Jesse Jackson</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>73</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 45. Donald Trump -->
+  <Question>
+    <Text>Which president was the first to be impeached twice and had a background as a real estate developer and reality TV star?</Text>
+    <Answers>Donald Trump;Mike Pence;Ross Perot</Answers>
+    <CorrectIndices>0</CorrectIndices>
+    <DifficultyLevel>74</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
+  <!-- 46. Joe Biden -->
+  <Question>
+    <Text>Who was the oldest person to assume the U.S. presidency and served as Vice President under Barack Obama?</Text>
+    <Answers>Bernie Sanders;Joe Biden;John Kerry</Answers>
+    <CorrectIndices>1</CorrectIndices>
+    <DifficultyLevel>75</DifficultyLevel>
+    <TimeLimit>20</TimeLimit>
+  </Question>
 </Questions>
