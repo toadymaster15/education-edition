@@ -1,107 +1,212 @@
 <Questions>
 <Question>
-	<Text>Who is considered the first monarch to establish stable and extensive rule over all of Anglo-Saxon England?</Text>
-	<Answers>Alfred the Great;Athelstan;Egbert</Answers>
+	<Text>Which president, despite being a slave owner himself, appointed his political rival Henry Clay as Secretary of State in what became known as the 'corrupt bargain'?</Text>
+	<Answers>Andrew Jackson;John Quincy Adams;Thomas Jefferson</Answers>
 	<CorrectIndices>1</CorrectIndices>
 	<DifficultyLevel>1</DifficultyLevel>
-	<TimeLimit>10</TimeLimit>
+	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>Which king was known as "the Unready" and dealt with Viking raids by paying them off?</Text>
-	<Answers>Edmund Ironside;Cnut the Great;Ethelred</Answers>
+	<Text>The Pendleton Civil Service Reform Act, which established that government jobs should be awarded based on merit, was a surprising achievement for which president who was previously associated with the spoils system?</Text>
+	<Answers>Grover Cleveland;Ulysses S. Grant;Chester A. Arthur</Answers>
 	<CorrectIndices>2</CorrectIndices>
 	<DifficultyLevel>2</DifficultyLevel>
-	<TimeLimit>10</TimeLimit>
+	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>What significant event in 1066 led to William the Conqueror becoming King of England?</Text>
-	<Answers>The signing of the Magna Carta;The Battle of Hastings;The Glorious Revolution</Answers>
+	<Text>Which of these presidents had no prior elected office experience before being elected, having served in appointed roles such as Secretary of Commerce and U.S. Food Administrator?</Text>
+	<Answers>Donald Trump;Herbert Hoover;Dwight D. Eisenhower</Answers>
 	<CorrectIndices>1</CorrectIndices>
 	<DifficultyLevel>3</DifficultyLevel>
-	<TimeLimit>10</TimeLimit>
+	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>Who was the first monarch of the House of Stuart, uniting the crowns of England and Scotland?</Text>
-	<Answers>Charles I;James I;Queen Anne</Answers>
-	<CorrectIndices>1</CorrectIndices>
-	<DifficultyLevel>4</DifficultyLevel>
-	<TimeLimit>15</TimeLimit>
-</Question>
-<Question>
-	<Text>The conflict between the House of Lancaster and the House of York is famously known as what?</Text>
-	<Answers>The Hundred Years' War;The English Civil War;The Wars of the Roses</Answers>
+	<Text>Which president was the only one to also serve as Chief Justice of the Supreme Court?</Text>
+	<Answers>Woodrow Wilson;Abraham Lincoln;William Howard Taft</Answers>
 	<CorrectIndices>2</CorrectIndices>
-	<DifficultyLevel>5</DifficultyLevel>
-	<TimeLimit>15</TimeLimit>
+	<DifficultyLevel>4</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>Which king was forced to sign the Magna Carta in 1215?</Text>
-	<Answers>Richard the Lionheart;King John;Henry III</Answers>
+	<Text>The policy known as the 'New Deal,' which included programs like Social Security, was implemented by which president to combat the Great Depression?</Text>
+	<Answers>Calvin Coolidge;Franklin D. Roosevelt;Herbert Hoover</Answers>
+	<CorrectIndices>1</CorrectIndices>
+	<DifficultyLevel>5</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which president was the first to be born a U.S. citizen, meaning he was born after the Declaration of Independence was signed in 1776?</Text>
+	<Answers>Andrew Jackson;Martin Van Buren;John Quincy Adams</Answers>
 	<CorrectIndices>1</CorrectIndices>
 	<DifficultyLevel>6</DifficultyLevel>
-	<TimeLimit>15</TimeLimit>
+	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>Who was the father of Alfred the Great?</Text>
-	<Answers>Egbert;Aethelbald;Aethelwulf</Answers>
-	<CorrectIndices>2</CorrectIndices>
+	<Text>Which president led the nation through the War of 1812, a conflict that included the burning of Washington, D.C. by British forces?</Text>
+	<Answers>Thomas Jefferson;James Madison;Andrew Jackson</Answers>
+	<CorrectIndices>1</CorrectIndices>
 	<DifficultyLevel>7</DifficultyLevel>
 	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>Which monarch was restored to the throne after the period of the Commonwealth and is known as the "Merry Monarch"?</Text>
-	<Answers>Charles I;Charles II;James II</Answers>
-	<CorrectIndices>1</CorrectIndices>
+	<Text>President Jimmy Carter's term was significantly impacted by a foreign policy crisis where 52 American hostages were held for 444 days in which country?</Text>
+	<Answers>Afghanistan;Iraq;Iran</Answers>
+	<CorrectIndices>2</CorrectIndices>
 	<DifficultyLevel>8</DifficultyLevel>
 	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>Which king had six wives and initiated the English Reformation?</Text>
-	<Answers>Henry VII;Edward VI;Henry VIII</Answers>
+	<Text>Two presidents are known for having served non-consecutive terms. One is Grover Cleveland. According to the source material, who is the other?</Text>
+	<Answers>Theodore Roosevelt;Richard Nixon;Donald Trump</Answers>
 	<CorrectIndices>2</CorrectIndices>
 	<DifficultyLevel>9</DifficultyLevel>
 	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>The long reign of which queen, from 1837 to 1901, is known as the Victorian Era?</Text>
-	<Answers>Queen Elizabeth I;Queen Victoria;Queen Anne</Answers>
-	<CorrectIndices>1</CorrectIndices>
-	<DifficultyLevel>10</DifficultyLevel>
-	<TimeLimit>25</TimeLimit>
-</Question>
-<Question>
-	<Text>Who was the last monarch of the House of Stuart?</Text>
-	<Answers>James II;Mary II;Queen Anne</Answers>
-	<CorrectIndices>2</CorrectIndices>
-	<DifficultyLevel>11</DifficultyLevel>
-	<TimeLimit>25</TimeLimit>
-</Question>
-<Question>
-	<Text>Who was the Lord Protector of the Commonwealth of England after the execution of Charles I?</Text>
-	<Answers>Oliver Cromwell;Richard Cromwell;Charles II</Answers>
+	<Text>What was the primary occupation for the majority of U.S. presidents and members of Congress since independence, though its dominance has been declining since the mid-19th century?</Text>
+	<Answers>Lawyer;Business;Military Officer</Answers>
 	<CorrectIndices>0</CorrectIndices>
-	<DifficultyLevel>12</DifficultyLevel>
-	<TimeLimit>25</TimeLimit>
+	<DifficultyLevel>10</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>Which king abdicated the throne in 1936 to marry Wallis Simpson?</Text>
-	<Answers>George VI;Edward VIII;George V</Answers>
+	<Text>President Andrew Johnson's presidency was defined by his frequent conflicts with Congress, which ultimately led to his impeachment after he violated what act?</Text>
+	<Answers>The Tenure of Office Act;The Civil Rights Act;The Sedition Act</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>11</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which president, a hero of the Spanish-American War, was known for his 'big stick diplomacy' and for establishing numerous national parks and forests?</Text>
+	<Answers>William McKinley;Theodore Roosevelt;Woodrow Wilson</Answers>
 	<CorrectIndices>1</CorrectIndices>
-	<DifficultyLevel>13</DifficultyLevel>
-	<TimeLimit>30</TimeLimit>
+	<DifficultyLevel>12</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>Who was the monarch during World War II, known for his radio broadcasts that boosted morale?</Text>
-	<Answers>Edward VIII;George V;George VI</Answers>
+	<Text>According to the source material, Abraham Lincoln's military service, though brief, saw him elected to what rank by his own militia company during the Black Hawk War?</Text>
+	<Answers>Private;Colonel;Captain</Answers>
+	<CorrectIndices>2</CorrectIndices>
+	<DifficultyLevel>13</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>The Louisiana Purchase in 1803, which doubled the size of the United States, was a major achievement of which president?</Text>
+	<Answers>John Adams;James Monroe;Thomas Jefferson</Answers>
 	<CorrectIndices>2</CorrectIndices>
 	<DifficultyLevel>14</DifficultyLevel>
-	<TimeLimit>30</TimeLimit>
+	<TimeLimit>20</TimeLimit>
 </Question>
 <Question>
-	<Text>In what year did Queen Elizabeth II become the longest-reigning monarch in British history?</Text>
-	<Answers>1953;2015;2022</Answers>
-	<CorrectIndices>1</CorrectIndices>
+	<Text>The 'Great Society' programs, which included the creation of Medicare and Medicaid and the passage of the Civil Rights Act of 1964, were the domestic agenda of which president?</Text>
+	<Answers>Richard Nixon;John F. Kennedy;Lyndon B. Johnson</Answers>
+	<CorrectIndices>2</CorrectIndices>
 	<DifficultyLevel>15</DifficultyLevel>
-	<TimeLimit>30</TimeLimit>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which president holds the record for the shortest term in office, dying just 31 days after his inauguration?</Text>
+	<Answers>William Henry Harrison;James A. Garfield;Zachary Taylor</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>16</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>The Sherman Antitrust Act, a landmark law designed to prohibit monopolies and increase economic competition, was signed during the presidency of which individual?</Text>
+	<Answers>Theodore Roosevelt;Benjamin Harrison;Grover Cleveland</Answers>
+	<CorrectIndices>1</CorrectIndices>
+	<DifficultyLevel>17</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>The 'Monroe Doctrine' was a pivotal foreign policy statement that warned European nations against further colonization or interference in the Americas. It was declared during the presidency of:</Text>
+	<Answers>James Madison;John Quincy Adams;James Monroe</Answers>
+	<CorrectIndices>2</CorrectIndices>
+	<DifficultyLevel>18</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which president was the first to live in the White House, even though it was still under construction during his term?</Text>
+	<Answers>George Washington;John Adams;Thomas Jefferson</Answers>
+	<CorrectIndices>1</CorrectIndices>
+	<DifficultyLevel>19</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>What major military conflict did Dwight D. Eisenhower serve in as a commanding general, a role that heavily shaped his presidency?</Text>
+	<Answers>World War I;World War II;Korean War</Answers>
+	<CorrectIndices>1</CorrectIndices>
+	<DifficultyLevel>20</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which president, a licensed bartender and co-owner of a bar, is most famous for leading the Union through the Civil War?</Text>
+	<Answers>Ulysses S. Grant;Andrew Johnson;Abraham Lincoln</Answers>
+	<CorrectIndices>2</CorrectIndices>
+	<DifficultyLevel>21</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>According to the source material, which president's administration was marred by the Watergate scandal, leading to his resignation?</Text>
+	<Answers>Gerald Ford;Lyndon B. Johnson;Richard Nixon</Answers>
+	<CorrectIndices>2</CorrectIndices>
+	<DifficultyLevel>22</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which president's 'Great Emancipator' title has been debated by some modern intellectuals who point to his earlier political positions and use of ethnic slurs as evidence of white supremacist views?</Text>
+	<Answers>Lyndon B. Johnson;Thomas Jefferson;Abraham Lincoln</Answers>
+	<CorrectIndices>2</CorrectIndices>
+	<DifficultyLevel>23</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which president was the only one in U.S. history to remain unmarried throughout his entire life?</Text>
+	<Answers>Chester A. Arthur;James Buchanan;Grover Cleveland</Answers>
+	<CorrectIndices>1</CorrectIndices>
+	<DifficultyLevel>24</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>The decision to use atomic bombs on Hiroshima and Nagasaki to end World War II was made by which president, who took office only a few months prior?</Text>
+	<Answers>Dwight D. Eisenhower;Franklin D. Roosevelt;Harry S. Truman</Answers>
+	<CorrectIndices>2</CorrectIndices>
+	<DifficultyLevel>25</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>The Affordable Care Act, a controversial health reform often called 'Obamacare,' was a signature legislative achievement of which president?</Text>
+	<Answers>Barack Obama;Bill Clinton;George W. Bush</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>26</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>What unusual pet named 'Rebecca' lived in the White House with President Calvin Coolidge and his wife?</Text>
+	<Answers>A raccoon;A bear cub;An alligator</Answers>
+	<CorrectIndices>0</CorrectIndices>
+	<DifficultyLevel>27</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>George H. W. Bush's presidency was marked by significant foreign policy successes, including the collapse of the Soviet Union and a swift victory in which 1991 conflict?</Text>
+	<Answers>The Invasion of Panama;The War in Afghanistan;The Gulf War</Answers>
+	<CorrectIndices>2</CorrectIndices>
+	<DifficultyLevel>28</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which president was the first to use the simple title 'Mr. President,' refusing more ostentatious suggestions like 'Your Majesty the President'?</Text>
+	<Answers>Thomas Jefferson;George Washington;John Adams</Answers>
+	<CorrectIndices>1</CorrectIndices>
+	<DifficultyLevel>29</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
+</Question>
+<Question>
+	<Text>Which two presidents, who were once political rivals and later friends, famously died on the exact same day, July 4, 1826, the 50th anniversary of the Declaration of Independence?</Text>
+	<Answers>Thomas Jefferson and James Madison;George Washington and John Adams;John Adams and Thomas Jefferson</Answers>
+	<CorrectIndices>2</CorrectIndices>
+	<DifficultyLevel>30</DifficultyLevel>
+	<TimeLimit>20</TimeLimit>
 </Question>
 </Questions>
